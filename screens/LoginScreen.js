@@ -23,7 +23,7 @@ export default function App({ navigation }) {
       />
       
 
-      <Button title="Submit" onPress={() => navigation.navigate("Home")} />
+      <Button title="Login" onPress={() => navigation.navigate("Home")} />
     </View>
   );
 } 
